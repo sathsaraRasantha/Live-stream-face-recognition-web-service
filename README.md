@@ -1,2 +1,2 @@
 # Live-stream-face-recognition-web-service
-This project is about a face recognition API which can be added to any application. It can be used as a face authentication for a particular solution. This API has been created using deep learning and Flask micro framework 
+This project is about a face recognition API which can be added to any application. It can be used as a face authentication for a particular solution. This API has been created using deep learning and Flask micro framework. The project is not completed yet. At the moment it has face detection functionality. Still working on the face identification functionality.
